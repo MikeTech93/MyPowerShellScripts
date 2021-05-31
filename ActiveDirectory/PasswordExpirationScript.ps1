@@ -1,3 +1,7 @@
+## Custom script to send emails based on users expiration date in Active Directory
+## This script was designed to prevent users passwords expiring and then having to contact the help desk to get their passwords reset
+
+
 # START OF USER VARIABLES
 $smtpServer="xxx" # Enter SMTP Server here
 $expireindays = 5
