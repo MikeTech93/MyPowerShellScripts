@@ -46,6 +46,6 @@ foreach ($file in $files) {
 
 # Robocopy script to copy from Shared Storage back into C:\Connect\content
 #$source = "D:\Content\7"
-#$dest = "C:\Connect\content\"
+#$dest = "C:\Connect\content\7"
 #robocopy $source $dest /ZB /S /XO /MT /FFT /W:5 /R:5 /xf *.tmp /xd '$RECYCLE.BIN' dfsrprivate 
 
