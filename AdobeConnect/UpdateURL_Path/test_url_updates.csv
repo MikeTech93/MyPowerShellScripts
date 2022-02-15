@@ -1,0 +1,4 @@
+new_url,complete_url
+url-update-001,http://connect.xxx.co.uk/api/xml?action=update-sco-url&sco-id=xxx&url-path=url-update-001
+url-update-0001,http://connect.xxx.co.uk/api/xml?action=update-sco-url&sco-id=xxx&url-path=url-update-0001
+url-update-00001,http://connect.xxx.co.uk/api/xml?action=update-sco-url&sco-id=xxx&url-path=url-update-00001
